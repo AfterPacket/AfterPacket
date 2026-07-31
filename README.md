@@ -1,33 +1,789 @@
-# 💫 About Me:
-I'm currently learning 🧠<br><br>🔐 Applied cryptography for anti-abuse (proof-of-work challenge/response, signed cookies/tokens, adaptive difficulty — no CAPTCHAs, no third parties)<br><br>🍯 Deception & honeypot engineering (tarpits that mimic real targets, waste attacker time, and log everything)<br><br>🤖 LLM red teaming & GenAI security (OWASP GenAI Top 10, jailbreak/prompt-injection sweeps, mutation + persona engines)<br><br>🕵️ OSINT engineering (multi-provider username discovery, breach + avatar/face correlation, metadata extraction)<br><br>📡 Packet-level network analysis (Scapy + TCP behavior classification for real-world debugging)<br><br>🌐 Censorship & outage monitoring (aggregating IODA / OONI / Cloudflare Radar with Bayesian probing)<br><br><br>🔭 I'm currently working on<br><br><br>🍯 Drosera — a carnivorous honeypot that looks like a live target, tarpits attackers, and records everything<br><br>🛡️ pow-shield — CAPTCHA-free proof-of-work bot shields for WordPress + PHP (SHA-256 puzzles, adaptive difficulty, Cloudflare/cache-friendly)<br><br>🌐 partially.online — real-time worldwide internet outage & restriction dashboard (IODA + OONI + Cloudflare Radar, trinocular Bayesian probing, 30-day country timelines, Discord/Mastodon alerting)<br><br>🤖 vexor — full-spectrum LLM red-teaming framework covering all 10 OWASP GenAI vuln classes (web UI, 15+ providers, 27 mutation techniques, PromptFoo import)<br><br><br>Recent highlights 🚀<br><br><br>🍯 Shipped Drosera — a honeypot/tarpit that impersonates a real service and burns attacker time while logging behavior<br><br>🛡️ Released proof-of-work bot shields for WordPress and PHP — no CAPTCHA, no external services, adaptive SHA-256 friction with signed cookies<br><br>🌐 Launched partially.online — live global outage/censorship dashboard with severity scoring, country timelines, and automatic Mastodon/Discord alerts<br><br>🤖 Built vexor into a full LLM red-team platform — automated jailbreak sweeps, 44 persona/override modes, and a closed-loop synthetic attack-data pipeline<br><br>🕵️ Kept Social-Hunt (most-starred repo) evolving as a multi-provider OSINT username tool with breach + image-matching add-ons<br><br>🗞️ Built war-room + secure-blog-cms — an open-source geopolitical-intel dashboard and a SQL-free, IPFS-pinned CMS
+<!-- ========================================================= -->
+<!--                    AFTERPACKET PROFILE                     -->
+<!-- ========================================================= -->
 
+<p align="center">
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AfterPacket) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AfterPacket) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:AfterPacketTru@protonmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,20:161B22,40:1F6FEB,70:58A6FF,100:79C0FF&text=AFTERPACKET&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Open%20Source%20Cybersecurity%20Developer&descAlignY=62&animation=fadeIn"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![Grav](https://img.shields.io/badge/grav-%23FFFFFF.svg?style=for-the-badge&logo=grav&logoColor=221E1F) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AfterPacket&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AfterPacket&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AfterPacket&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AfterPacket&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">
+Hi 👋 I'm Jordan
+</h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">
+🍯 Deception Engineering • 🔐 Applied Cryptography • 🤖 AI Security • 🕵️ OSINT • 🌐 Internet Intelligence
+</h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AfterPacket&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&lines=Building+Open+Source+Cybersecurity+Tools;Creator+of+Drosera;Building+Proof-of-Work+Bot+Protection;OSINT+Researcher;Threat+Intelligence+Developer;AI+Security+Researcher;Linux+%7C+Python+%7C+Docker+%7C+Elastic"/>
+
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AfterPacket&icon=10&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/galorr) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ThatGuyJ89) 
+# 👋 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I build **open-source cybersecurity software** focused on helping defenders
+understand attackers instead of simply blocking them.
 
-<!-- <a rel="me" href="https://mastodon.social/@AfterPacket">Mastodon</a>  -->
+My projects revolve around deception engineering, threat intelligence,
+AI security, OSINT, anti-abuse systems, and large-scale internet
+measurement.
+
+Rather than relying on third-party services, I prefer building
+privacy-respecting, self-hosted solutions that give defenders complete
+visibility into what is happening on their infrastructure.
+
+---
+
+## 🔭 Current Focus
+
+🍯 High-interaction Honeypots
+
+🛡️ CAPTCHA-Free Proof-of-Work Protection
+
+🤖 LLM Red Team Automation
+
+🕵️ Multi-provider OSINT
+
+🌐 Global Internet Monitoring
+
+📡 Packet Analysis
+
+⚡ Threat Intelligence
+
+---
+
+## 🚀 Featured Projects
+
+### 🍯 Drosera
+
+A deception platform designed to impersonate real services,
+tarpit attackers,
+record every interaction,
+and produce actionable threat intelligence.
+
+---
+
+### 🛡 Pow-Shield
+
+A modern proof-of-work framework for PHP and WordPress.
+
+✔ No CAPTCHA
+
+✔ No JavaScript fingerprinting
+
+✔ No third-party services
+
+✔ Adaptive SHA-256 puzzles
+
+---
+
+### 🤖 Vexor
+
+A complete OWASP GenAI Top 10
+red-teaming platform supporting
+multiple AI providers,
+automated jailbreak testing,
+mutation engines,
+PromptFoo imports,
+and synthetic attack generation.
+
+---
+
+### 🌐 partially.online
+
+Worldwide censorship,
+internet outage,
+and connectivity monitoring
+powered by multiple public data sources.
+
+---
+
+### 🕵 Social Hunt
+
+Open-source OSINT platform featuring
+
+- Username Enumeration
+
+- Face Correlation
+
+- Breach Intelligence
+
+- Metadata Extraction
+
+- Multi-provider Searching
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/AfterPacket">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://mastodon.social/@AfterPacket">
+<img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
+</a>
+
+<a href="https://x.com/AfterPacket">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:AfterPacketTru@protonmail.com">
+<img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=AfterPacket&label=Profile+Views&color=1F6FEB&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/AfterPacket?style=for-the-badge)
+
+![](https://img.shields.io/github/stars/AfterPacket?style=for-the-badge)
+
+</p>
+
+---
+
+> **"Build tools that give defenders time, visibility, and intelligence."**
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 🍯 Drosera
+
+<p align="center">
+<img src="https://opengraph.githubassets.com/1/AfterPacket/Drosera" width="900">
+</p>
+
+High-interaction deception platform that impersonates real services, wastes attacker time, and records everything for later analysis.
+
+---
+
+## 🛡 Pow-Shield
+
+<p align="center">
+<img src="https://opengraph.githubassets.com/1/AfterPacket/pow-shield-php" width="900">
+</p>
+
+CAPTCHA-free Proof-of-Work protection for PHP and WordPress using adaptive SHA-256 puzzles.
+
+---
+
+## 🤖 Vexor
+
+<p align="center">
+<img src="https://opengraph.githubassets.com/1/AfterPacket/vexor" width="900">
+</p>
+
+An open-source AI security platform for evaluating Large Language Models against the **OWASP GenAI Top 10**. Vexor automates prompt injection testing, jailbreak discovery, adversarial prompt generation, and security assessments across multiple AI providers, with support for local and cloud-hosted models.
+
+---
+
+
+## 🌍 partially.online
+
+<p align="center">
+<img src="https://opengraph.githubassets.com/1/AfterPacket/partially.online" width="900">
+</p>
+
+A global Internet observability platform that monitors outages, censorship events, and network disruptions using multiple independent data sources. Built to provide researchers, journalists, and defenders with a unified view of Internet health and accessibility through real-time dashboards and historical analysis.
+
+---
+
+## 🕵 Social-Hunt
+
+<p align="center">
+<img src="https://opengraph.githubassets.com/1/AfterPacket/Social-Hunt" width="900">
+</p>
+
+Multi-provider OSINT toolkit for username enumeration, breach intelligence, metadata extraction, and avatar correlation.
+
+---
+
+## 📰 Secure Blog CMS
+
+<p align="center">
+<img src="https://opengraph.githubassets.com/1/AfterPacket/secure-blog-cms" width="900">
+</p>
+
+Security-first Markdown blogging platform with CSP, IPFS support, static publishing, and self-hosted deployment.
+
+Security-focused blogging platform.
+
+### Features
+
+- SQL-Free
+- Markdown
+- Static Publishing
+- IPFS Support
+- Built-in Security Headers
+- CSP
+- Automatic Sitemap
+- Lightweight
+- Self Hosted
+
+---
+
+# 🧪 Other Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌍 War Room | Geopolitical intelligence dashboard |
+| 🔍 CDN Origin Audit | Detect exposed origin infrastructure |
+| 📡 Network Tools | Packet analysis & debugging |
+| 🧠 AI Security Labs | Prompt injection & jailbreak research |
+| 🔐 Cryptography Experiments | Applied cryptographic systems |
+| 🕸️ Web Security Utilities | Miscellaneous defensive tooling |
+
+---
+
+# 📈 Development Philosophy
+
+```text
+Observe before blocking.
+
+Collect intelligence before responding.
+
+Automate repetitive tasks.
+
+Build privacy-first solutions.
+
+Keep everything open source.
+
+Share knowledge.
+
+Improve defender visibility.
+
+Measure everything.
+```
+
+---
+
+# 🎯 Current Goals
+
+- Expand Drosera into a complete deception framework
+- Build enterprise Kibana dashboards
+- Continue AI red-team research
+- Improve OSINT automation
+- Release additional proof-of-work libraries
+- Expand internet monitoring capabilities
+- Publish technical research
+- Contribute to open-source security
+
+---
+
+<p align="center">
+
+## ⭐ If you find any of my projects useful
+
+Please consider
+
+⭐ Starring the repository
+
+🐛 Reporting bugs
+
+💡 Suggesting features
+
+🔀 Opening pull requests
+
+📢 Sharing the projects
+
+</p>
+
+<!-- END OF PART 2 -->
+<!-- ========================================================= -->
+<!--                   TECH STACK & METRICS                     -->
+<!-- ========================================================= -->
+
+# 💻 Technology Stack
+
+### Languages
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</p>
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+<p align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</p>
+
+---
+
+## 🛡 Security
+
+<p align="center">
+
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AfterPacket&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfterPacket&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AfterPacket&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AfterPacket&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AfterPacket&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 📦 Repository Statistics
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=AfterPacket&limit=8&combine_all_yearly_contributions=true&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🌍 Languages
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AfterPacket&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AfterPacket&theme=github_dark"/>
+
+</p>
+
+---
+
+# ⚡ Development Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfterPacket&theme=github_dark"/>
+
+</p>
+
+---
+
+# 📅 Coding Calendar
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfterPacket&theme=github_dark&utcOffset=-5"/>
+
+</p>
+
+---
+
+# 📡 Current Focus
+
+```text
+🍯 High-Interaction Honeypots
+
+🔐 Proof-of-Work Anti-Abuse
+
+🤖 AI Red Team Automation
+
+🕵 OSINT Engineering
+
+📡 Threat Intelligence
+
+🌍 Internet Measurement
+
+⚙ Elastic Dashboards
+
+🐳 Docker Infrastructure
+```
+
+---
+
+# 🧠 Research Interests
+
+- Applied Cryptography
+- Threat Hunting
+- Threat Intelligence
+- Malware Infrastructure
+- Internet Censorship
+- Honeypots
+- AI Safety
+- Prompt Injection
+- Packet Analysis
+- Digital Forensics
+- Deception Technology
+- Open Source Intelligence
+
+---
+
+# 🖥 Environment
+
+```text
+OS           Linux
+
+Editor       VS Code
+             Cursor
+             Zed
+
+Languages    Python
+             PHP
+             TypeScript
+
+Containers   Docker
+
+Cloud        Cloudflare
+             DigitalOcean
+
+Database     SQLite
+             Elastic
+
+Versioning   Git
+             GitHub
+```
+
+---
+
+# 📜 Philosophy
+
+> "Good security isn't just blocking attacks.
+> It's understanding them."
+
+> "Every attacker interaction is intelligence."
+
+> "Open source makes defenders stronger."
+
+---
+
+<!-- END OF PART 3 -->
+<!-- ========================================================= -->
+<!--                 ACTIVITY • BLOG • SUPPORT                  -->
+<!-- ========================================================= -->
+
+# 📡 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+# 🚀 Latest Releases
+
+<!--START_SECTION:releases-->
+<!--END_SECTION:releases-->
+
+---
+
+# 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+# 🐘 Latest Mastodon Posts
+
+> *(Automatically updated via GitHub Actions)*
+
+<!-- MASTODON:START -->
+<!-- MASTODON:END -->
+
+---
+
+# 📺 Currently Building
+
+```text
+🍯 Drosera
+███████████████████████░░░ 92%
+
+🛡 Pow-Shield
+████████████████████░░░░░ 85%
+
+🤖 Vexor
+██████████████████░░░░░░░ 76%
+
+🌍 partially.online
+███████████████████░░░░░░ 81%
+
+🕵 Social-Hunt
+█████████████████████░░░░ 88%
+```
+
+---
+
+# 📈 2026 Goals
+
+- [ ] Drosera v1.0
+- [ ] Enterprise Elastic dashboards
+- [ ] Full attacker replay system
+- [ ] Public REST API
+- [ ] AI-powered IOC enrichment
+- [ ] Additional Proof-of-Work libraries
+- [ ] Internet censorship timeline
+- [ ] Vexor provider expansion
+- [ ] Improved OSINT modules
+- [ ] Publish more security research
+
+---
+
+# 🧪 Current Research
+
+### 🍯 Deception Engineering
+
+- High-interaction honeypots
+- Service impersonation
+- Tarpits
+- Credential harvesting analysis
+- Attacker behavior analytics
+
+---
+
+### 🔐 Applied Cryptography
+
+- Proof-of-Work
+- Signed cookies
+- Adaptive difficulty
+- Anti-abuse systems
+- Authentication research
+
+---
+
+### 🤖 AI Security
+
+- Prompt Injection
+- Jailbreak Testing
+- OWASP GenAI Top 10
+- Agent Security
+- Model Evaluation
+- Synthetic Attack Generation
+
+---
+
+### 🕵 Threat Intelligence
+
+- IOC Collection
+- Behavioral Analysis
+- Threat Hunting
+- Elastic Dashboards
+- OSINT Correlation
+
+---
+
+# 🌎 Open Source
+
+I believe defenders deserve high-quality tooling.
+
+Everything I build is designed around
+
+- Transparency
+- Privacy
+- Documentation
+- Self-hosting
+- Community contributions
+
+---
+
+# 🤝 Contributing
+
+Found a bug?
+
+Have an idea?
+
+Want to help?
+
+Contributions are always welcome.
+
+```bash
+git clone https://github.com/AfterPacket/<repository>.git
+
+cd repository
+
+git checkout -b feature/my-feature
+
+git commit
+
+git push
+
+Open Pull Request 🚀
+```
+
+---
+
+# ❤️ Support Development
+
+If my projects have helped you or your organization,
+consider supporting continued development.
+
+<p align="center">
+
+<a href="https://buymeacoffee.com/galorr">
+
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+
+</a>
+
+<a href="https://paypal.me/ThatGuyJ89">
+
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 📬 Contact
+
+<p align="center">
+
+<a href="https://github.com/AfterPacket">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://mastodon.social/@AfterPacket">
+
+<img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
+
+</a>
+
+<a href="https://x.com/AfterPacket">
+
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+
+</a>
+
+<a href="mailto:AfterPacketTru@protonmail.com">
+
+<img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# ☕ Fun Facts
+
+```text
+🐧 Linux Enthusiast
+
+🍯 Loves Honeypots
+
+🔐 CAPTCHA Hater
+
+🕵 OSINT Addict
+
+🤖 AI Security Nerd
+
+🌎 Open Source Advocate
+
+☕ Powered by Coffee
+
+🎵 Usually Coding With Music
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/AfterPacket/AfterPacket/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AfterPacket&style=for-the-badge&color=1F6FEB"/>
+
+</p>
+
+---
+
+# ⭐ Thanks for Visiting
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,20:161B22,40:1F6FEB,70:58A6FF,100:79C0FF"/>
+
+</p>
+
+<p align="center">
+
+### 🍯 Build. Defend. Share.
+
+*"Every attacker interaction is an opportunity to learn."*
+
+</p>
+
+<!-- ========================================================= -->
+<!--                GitHub Profile README v2.0                 -->
+<!-- ========================================================= -->
