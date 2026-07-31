@@ -29,4 +29,5 @@ I'm currently learning 🧠<br><br>🔐 Applied cryptography for anti-abuse (pro
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a rel="me" href="https://mastodon.social/@AfterPacket">Mastodon</a>
+
+<!-- <a rel="me" href="https://mastodon.social/@AfterPacket">Mastodon</a>  -->
