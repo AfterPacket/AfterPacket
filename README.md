@@ -639,17 +639,6 @@ consider supporting continued development.
 
 ---
 
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AfterPacket&style=for-the-badge&color=1F6FEB"/>
-
-</p>
-
----
-
 # ⭐ Thanks for Visiting
 
 <p align="center">
