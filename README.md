@@ -117,29 +117,6 @@ Open-source OSINT platform featuring
 
 - Multi-provider Searching
 
----
-
-# 🌎 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/AfterPacket">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://mastodon.social/@AfterPacket">
-<img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
-</a>
-
-<a href="https://x.com/AfterPacket">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:AfterPacketTru@protonmail.com">
-<img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
@@ -155,9 +132,6 @@ Open-source OSINT platform featuring
 
 ---
 
-> **"Build tools that give defenders time, visibility, and intelligence."**
-
----
 
 # 🚀 Featured Projects
 
@@ -490,61 +464,6 @@ Please consider
 
 ---
 
-<!-- END OF PART 3 -->
-<!-- ========================================================= -->
-<!--                 ACTIVITY • BLOG • SUPPORT                  -->
-<!-- ========================================================= -->
-
-# 📡 Latest Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-# 🚀 Latest Releases
-
-<!--START_SECTION:releases-->
-<!--END_SECTION:releases-->
-
----
-
-# 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-# 🐘 Latest Mastodon Posts
-
-> *(Automatically updated via GitHub Actions)*
-
-<!-- MASTODON:START -->
-<!-- MASTODON:END -->
-
----
-
-# 📺 Currently Building
-
-```text
-🍯 Drosera
-███████████████████████░░░ 92%
-
-🛡 Pow-Shield
-████████████████████░░░░░ 85%
-
-🤖 Vexor
-██████████████████░░░░░░░ 76%
-
-🌍 partially.online
-███████████████████░░░░░░ 81%
-
-🕵 Social-Hunt
-█████████████████████░░░░ 88%
-```
-
----
 
 # 📈 2026 Goals
 
@@ -720,15 +639,6 @@ consider supporting continued development.
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/AfterPacket/AfterPacket/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 👀 Profile Views
 
