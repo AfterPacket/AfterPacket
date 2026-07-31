@@ -477,34 +477,7 @@ Please consider
 - Deception Technology
 - Open Source Intelligence
 
----
 
-# 🖥 Environment
-
-```text
-OS           Linux
-
-Editor       VS Code
-             Cursor
-             Zed
-
-Languages    Python
-             PHP
-             TypeScript
-
-Containers   Docker
-
-Cloud        Cloudflare
-             DigitalOcean
-
-Database     SQLite
-             Elastic
-
-Versioning   Git
-             GitHub
-```
-
----
 
 # 📜 Philosophy
 
@@ -576,7 +549,6 @@ Versioning   Git
 # 📈 2026 Goals
 
 - [ ] Drosera v1.0
-- [ ] Enterprise Elastic dashboards
 - [ ] Full attacker replay system
 - [ ] Public REST API
 - [ ] AI-powered IOC enrichment
