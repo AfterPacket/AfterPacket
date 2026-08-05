@@ -41,12 +41,12 @@ proof-of-work anti-abuse · LLM red-team automation · internet outage monitorin
 <tr>
 <td width="50%">
 <a href="https://github.com/AfterPacket/Drosera">
-<img src="https://opengraph.githubassets.com/1/AfterPacket/Drosera" alt="Drosera"/>
+<img src="https://opengraph.githubassets.com/3cff993722e70e6d2779adf30105d3b52e0d9d2ec0b2018f8dadf5699627a2af/AfterPacket/Drosera" alt="Drosera"/>
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/AfterPacket/Utricularia">
-<img src="https://opengraph.githubassets.com/1/AfterPacket/Utricularia" alt="Utricularia"/>
+<img src="https://opengraph.githubassets.com/67489ad697819060119105aa46caa5d32a5ad2a8c4c52c5241f636de48b14671/AfterPacket/Utricularia" alt="Utricularia"/>
 </a>
 </td>
 </tr>
@@ -79,7 +79,7 @@ suction: attackers get pulled in.
 
 <p align="center">
 <a href="https://github.com/AfterPacket/vexor">
-<img src="https://opengraph.githubassets.com/1/AfterPacket/vexor" width="900" alt="Vexor"/>
+<img src="https://opengraph.githubassets.com/5d6dfbf0d4a301bc1f6e5f0ef3ee2549fb2b4bd8f2e155a6ffd4366290484254/AfterPacket/vexor" width="900" alt="Vexor"/>
 </a>
 </p>
 
@@ -89,7 +89,7 @@ mutation engines, PromptFoo imports, and synthetic attack generation.
 
 <p align="center">
 <a href="https://github.com/AfterPacket/pow-shield-php">
-<img src="https://opengraph.githubassets.com/1/AfterPacket/pow-shield-php" width="900" alt="Pow-Shield"/>
+<img src="https://opengraph.githubassets.com/8fc5a474362bb53727c63c47d911e3d0c74791e77d96897dabf1290df0486e75/AfterPacket/pow-shield-php" width="900" alt="Pow-Shield"/>
 </a>
 </p>
 
@@ -99,18 +99,17 @@ CAPTCHA, no JavaScript fingerprinting, no third-party services.
 
 <p align="center">
 <a href="https://github.com/AfterPacket/partially.online">
-<img src="https://opengraph.githubassets.com/1/AfterPacket/partially.online" width="900" alt="partially.online"/>
+<img src="https://opengraph.githubassets.com/df2f314c34694a94e1ff950ab42adebf6496964a8e7e608a75197663e0a4c7d9/AfterPacket/partially.online" width="900" alt="partially.online"/>
 </a>
 </p>
 
 **[partially.online](https://github.com/AfterPacket/partially.online)** —
 real-time worldwide censorship, internet outage, and connectivity monitoring,
-aggregating live data from IODA, GDELT, Cloudflare Radar, and Cloudflare
-Radar. Built for correlating outages against real-world events.
+aggregating live data from IODA, GDELT, Cloudflare Radar, and RIPE Atlas. Built for correlating outages against real-world events.
 
 <p align="center">
 <a href="https://github.com/AfterPacket/Social-Hunt">
-<img src="https://opengraph.githubassets.com/1/AfterPacket/Social-Hunt" width="900" alt="Social Hunt"/>
+<img src="https://opengraph.githubassets.com/00874718520ae451e1eae59ddf94b37c54f2e64f6f2fab86bc5d681e98033a00/AfterPacket/Social-Hunt" width="900" alt="Social Hunt"/>
 </a>
 </p>
 
@@ -121,7 +120,7 @@ platforms.
 
 <p align="center">
 <a href="https://github.com/AfterPacket/secure-blog-cms">
-<img src="https://opengraph.githubassets.com/1/AfterPacket/secure-blog-cms" width="900" alt="Secure Blog CMS"/>
+<img src="https://opengraph.githubassets.com/722116ac73b51965d9145e6903a0b8a7f5ea829f80be216147cf8cf439bc5980/AfterPacket/secure-blog-cms" width="900" alt="Secure Blog CMS"/>
 </a>
 </p>
 
