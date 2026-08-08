@@ -29,7 +29,8 @@ relying on third-party services, I build privacy-respecting, self-hosted tools
 that give defenders complete visibility into their own infrastructure.
 
 **Currently focused on:** high-interaction honeypots · ICS/SCADA deception ·
-proof-of-work anti-abuse · LLM red-team automation · internet outage monitoring
+proof-of-work anti-abuse · LLM red-team automation · internet outage monitoring ·
+public detection feeds
 
 ---
 
@@ -75,6 +76,39 @@ EtherNet/IP, backed by a simulated pump station, a tiered loot chain,
 per-address scoring and tarpitting, and an SSH-tunneled dashboard.
 
 **Traps by suction** — attackers get pulled in.
+
+</td>
+</tr>
+</table>
+
+---
+
+### Published Intelligence
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+#### [Drosera Threat Intel](https://github.com/AfterPacket/drosera-threat-intel) — what the sundew catches
+
+[![Stars](https://img.shields.io/github/stars/AfterPacket/drosera-threat-intel?style=flat-square&color=1F6FEB&labelColor=161B22)](https://github.com/AfterPacket/drosera-threat-intel/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/AfterPacket/drosera-threat-intel?style=flat-square&color=79C0FF&labelColor=161B22)](https://github.com/AfterPacket/drosera-threat-intel/commits)
+[![TLP](https://img.shields.io/badge/TLP-WHITE-FFFFFF?style=flat-square&labelColor=161B22)](https://github.com/AfterPacket/drosera-threat-intel)
+
+Static analysis and detection artifacts for malware captured live by the
+Drosera honeypot. Every capture ships a YARA rule, Suricata rules, an IOC
+feed, firewall block entries and a full written report — with the reasoning
+behind every inclusion, and every exclusion, written down.
+
+Shared CDN ranges are never added to the feed. Signatures that would
+false-positive across a real estate are deliberately not shipped.
+
+**Master blocklist** — plain newline-delimited IPs and domains, safe to `curl`
+on a cron:
+
+```
+https://raw.githubusercontent.com/AfterPacket/drosera-threat-intel/main/blocklist.txt
+```
 
 </td>
 </tr>
@@ -240,7 +274,8 @@ analytics
 agent security, model evaluation, synthetic attack generation
 
 **Threat intelligence** — IOC collection, behavioral analysis, threat hunting,
-Elastic dashboards, OSINT correlation
+detection engineering, published TLP:WHITE feeds, Elastic dashboards, OSINT
+correlation
 
 **Applied cryptography** — proof-of-work, signed cookies, adaptive difficulty,
 anti-abuse systems
