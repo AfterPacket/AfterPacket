@@ -1,0 +1,33 @@
+name: Update Profile Widgets
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Generate README from template
+        uses: ItzDabbzz/profile-readme@master
+        with:
+          username: AfterPacket
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: "chore: auto-update profile widgets"
