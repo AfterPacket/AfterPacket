@@ -19,7 +19,7 @@
 
 ## Whoami
 
-I got my handle at DefCon 25 — August 2017, first time there, didn't have an
+I got my handle at DefCon 25  August 2017, first time there, didn't have an
 official name beyond a gaming tag, and a name generator spat out "AfterPacket."
 It stuck. Everything since has been under that banner.
 
@@ -28,7 +28,7 @@ than just block them. That means honeypots that lie convincingly, proof-of-work
 systems that don't need CAPTCHAs, red-team platforms that break LLMs on
 purpose, and internet-scale monitoring that watches when the wires go dark.
 
-I don't trust third-party services with my data — so I self-host everything,
+I don't trust third-party services with my data  so I self-host everything,
 document it, and ship it open source. If you can't read the code, you can't
 trust the defense.
 
@@ -37,7 +37,7 @@ trust the defense.
 ## Carnivorous Plants
 
 My honeypot framework is named after carnivorous plants. Each one traps
-attackers differently — that's not a metaphor, it's the design spec.
+attackers differently  that's not a metaphor, it's the design spec.
 
 ### Drosera — the sundew
 
