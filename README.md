@@ -277,10 +277,11 @@ next LLM harder to jailbreak. That's the whole point.
 
 ## Contact
 
+> Banned from X — Elon's AI-driven support team doesn't thoroughly review issues before acting on them. For outreach, use email or Mastodon.
+
 <p align="center">
 <a href="https://github.com/AfterPacket"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://mastodon.social/@AfterPacket"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
-<a href="https://x.com/AfterPacket"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" alt="X"/></a>
 <a href="mailto:AfterPacketTru@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
 </p>
 
