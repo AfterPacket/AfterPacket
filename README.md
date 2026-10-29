@@ -240,6 +240,52 @@ every other flat-file CMS treated security as an afterthought.
 ### Coding Time
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.01%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                772 commits         ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+🌆 Daytime                615 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+🌃 Evening                734 commits         ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+🌙 Night                  500 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Tuesday                  356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Wednesday                472 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Thursday                 424 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Friday                   424 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Saturday                 530 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Sunday                   240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/AfterPacket/AfterPacket/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/10/2026 22:14:09 UTC
 <!--END_SECTION:waka-->
 
 ---
