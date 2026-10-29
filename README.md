@@ -232,11 +232,10 @@ every other flat-file CMS treated security as an afterthought.
 
 ### Recent Activity
 
-❗ Labeled issue [#1](https://github.com/AfterPacket/AfterPacket/issues/1) — _Fix missing TEMPLATE.md in profile README workflow_ in **[AfterPacket/AfterPacket](https://github.com/AfterPacket/AfterPacket)** `2 minutes ago`
-❗ Opened issue [#1](https://github.com/AfterPacket/AfterPacket/issues/1) — _Fix missing TEMPLATE.md in profile README workflow_ in **[AfterPacket/AfterPacket](https://github.com/AfterPacket/AfterPacket)** `2 minutes ago`
-🔀 Merged PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `an hour ago`
-🔀 Opened PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `an hour ago`
+🔀 Merged PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `2 hours ago`
+🔀 Opened PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `2 hours ago`
 ⭐ Starred **[AfterPacket/war-room](https://github.com/AfterPacket/war-room)** `8 hours ago`
+⭐ Starred **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `a day ago`
 
 ### Coding Time
 
