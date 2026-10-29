@@ -2,11 +2,11 @@
 <!-- AFTERPACKET PROFILE                                       -->
 <!-- ========================================================= -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,20:161B22,40:1F6FEB,70:58A6FF,100:79C0FF&text=AFTERPACKET&fontColor=FFFFFF&fontSize=70&fontAlignY=38&desc=Open%20Source%20Cybersecurity%20Developer&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,20:161B22,40:1F6FEB,70:58A6FF,100:79C0FF&text=AFTERPACKET&fontColor=FFFFFF&fontSize=70&fontAlignY=38&desc=Open%20source%20security%20tools%20for%20defenders.&fontFamily=Verdana" alt="AfterPacket banner"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Deception+Engineering;Threat+Intelligence;AI+Red+Teaming;Internet+Measurement" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Deception+Engineering;Threat+Intelligence;Attack+Simulation;Internet+Outage+Monitoring" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ suction — one wrong probe and you're inside with no way back out.
 [![Stars](https://img.shields.io/github/stars/AfterPacket/drosera-threat-intel?style=flat-square&color=1F6FEB&labelColor=161B22)](https://github.com/AfterPacket/drosera-threat-intel/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/AfterPacket/drosera-threat-intel?style=flat-square&color=79C0FF&labelColor=161B22)](https://github.com/AfterPacket/drosera-threat-intel/commits)
 [![TLP](https://img.shields.io/badge/TLP-WHITE-FFFFFF?style=flat-square&labelColor=161B22)](https://github.com/AfterPacket/drosera-threat-intel)
-<!--TIMESTAMP:{"mode": "relative", "badge": true, "label": "Last Intel Push", "color": "1F6FEB"}-->
+![Last Intel Push](https://img.shields.io/badge/Last_Intel_Push-a_few_seconds_ago-1F6FEB?style=flat-square)
 
 Every capture from the Drosera honeypot gets a full writeup: YARA rule,
 Suricata rules, IOC feed, firewall block entries, and a report explaining
@@ -88,8 +88,7 @@ ship signatures that would false-positive across a real estate. Shared CDN
 ranges never make the feed.
 
 **Master blocklist** — newline-delimited IPs and domains, safe to `curl` on
-a cron:https://raw.githubusercontent.com/AfterPacket/drosera-threat-intel/main/blocklist.txt
-
+https://raw.githubusercontent.com/AfterPacket/drosera-threat-intel/main/blocklist.txt
 
 ---
 
@@ -233,7 +232,11 @@ every other flat-file CMS treated security as an afterthought.
 
 ### Recent Activity
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "style": "compact", "showDate": true}-->
+❗ Labeled issue [#1](https://github.com/AfterPacket/AfterPacket/issues/1) — _Fix missing TEMPLATE.md in profile README workflow_ in **[AfterPacket/AfterPacket](https://github.com/AfterPacket/AfterPacket)** `2 minutes ago`
+❗ Opened issue [#1](https://github.com/AfterPacket/AfterPacket/issues/1) — _Fix missing TEMPLATE.md in profile README workflow_ in **[AfterPacket/AfterPacket](https://github.com/AfterPacket/AfterPacket)** `2 minutes ago`
+🔀 Merged PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `an hour ago`
+🔀 Opened PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `an hour ago`
+⭐ Starred **[AfterPacket/war-room](https://github.com/AfterPacket/war-room)** `8 hours ago`
 
 ### Coding Time
 
