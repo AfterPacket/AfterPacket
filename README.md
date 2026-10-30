@@ -232,10 +232,11 @@ every other flat-file CMS treated security as an afterthought.
 
 ### Recent Activity
 
-🔀 Merged PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `16 hours ago`
-🔀 Opened PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `16 hours ago`
-⭐ Starred **[AfterPacket/war-room](https://github.com/AfterPacket/war-room)** `a day ago`
-⭐ Starred **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `2 days ago`
+🌿 Created branch [`analysis/static-coverage-20261029`](https://github.com/AfterPacket/drosera-threat-intel/tree/analysis%2Fstatic-coverage-20261029) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `a day ago`
+⬆️ Pushed to [`main`](https://github.com/AfterPacket/drosera-threat-intel/tree/main) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** ([`aed91fb`](https://github.com/AfterPacket/drosera-threat-intel/commit/aed91fba5f811d572788a944eafa879b46cb653b)) `a day ago`
+⬆️ Pushed to [`analysis/static-coverage-20261029`](https://github.com/AfterPacket/drosera-threat-intel/tree/analysis%2Fstatic-coverage-20261029) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** ([`8ea6626`](https://github.com/AfterPacket/drosera-threat-intel/commit/8ea6626a6f2f5fa13e8295f29ecb9d6b53a67fc4)) `a day ago`
+🔀 Merged PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `21 hours ago`
+🔀 Opened PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `21 hours ago`
 
 ### Coding Time
 
