@@ -232,10 +232,10 @@ every other flat-file CMS treated security as an afterthought.
 
 ### Recent Activity
 
-🔀 Merged PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `8 hours ago`
-🔀 Opened PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `8 hours ago`
-⭐ Starred **[AfterPacket/war-room](https://github.com/AfterPacket/war-room)** `14 hours ago`
-⭐ Starred **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `a day ago`
+🔀 Merged PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `16 hours ago`
+🔀 Opened PR [#1](https://github.com/AfterPacket/drosera-threat-intel/pull/1) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `16 hours ago`
+⭐ Starred **[AfterPacket/war-room](https://github.com/AfterPacket/war-room)** `a day ago`
+⭐ Starred **[p-e-w/heretic](https://github.com/p-e-w/heretic)** `2 days ago`
 
 ### Coding Time
 
