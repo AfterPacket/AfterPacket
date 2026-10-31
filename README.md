@@ -232,11 +232,11 @@ every other flat-file CMS treated security as an afterthought.
 
 ### Recent Activity
 
+🌿 Created branch [`ci/static-validation-and-doc-consistency-20261029`](https://github.com/AfterPacket/drosera-threat-intel/tree/ci%2Fstatic-validation-and-doc-consistency-20261029) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `2 days ago`
+⬆️ Pushed to [`main`](https://github.com/AfterPacket/drosera-threat-intel/tree/main) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** ([`3712906`](https://github.com/AfterPacket/drosera-threat-intel/commit/371290623ef1392f30ce63a92852139a6168b373)) `2 days ago`
+🌿 Created branch [`analysis/deep-static-batch1-20261029`](https://github.com/AfterPacket/drosera-threat-intel/tree/analysis%2Fdeep-static-batch1-20261029) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `2 days ago`
+⬆️ Pushed to [`main`](https://github.com/AfterPacket/AfterPacket/tree/main) in **[AfterPacket/AfterPacket](https://github.com/AfterPacket/AfterPacket)** ([`3de9bfb`](https://github.com/AfterPacket/AfterPacket/commit/3de9bfbde27fc98b4bf8dbd4fa3f162684cbe3a3)) `2 days ago`
 ⬆️ Pushed to [`main`](https://github.com/AfterPacket/drosera-threat-intel/tree/main) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** ([`9f7c0fb`](https://github.com/AfterPacket/drosera-threat-intel/commit/9f7c0fb319f62200afcf0f1b79c3eb9271d3c868)) `2 days ago`
-⬆️ Pushed to [`main`](https://github.com/AfterPacket/drosera-threat-intel/tree/main) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** ([`69bd979`](https://github.com/AfterPacket/drosera-threat-intel/commit/69bd979349ee7063f453f6eb64fc8271610ac851)) `2 days ago`
-🌿 Created branch [`intel/loader-contextual-iocs-20261029`](https://github.com/AfterPacket/drosera-threat-intel/tree/intel%2Floader-contextual-iocs-20261029) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `2 days ago`
-⬆️ Pushed to [`main`](https://github.com/AfterPacket/drosera-threat-intel/tree/main) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** ([`d515d11`](https://github.com/AfterPacket/drosera-threat-intel/commit/d515d1142c7a53bc00926f6679f6b081251fb17d)) `2 days ago`
-⬆️ Pushed to [`main`](https://github.com/AfterPacket/AfterPacket/tree/main) in **[AfterPacket/AfterPacket](https://github.com/AfterPacket/AfterPacket)** ([`e6bffd6`](https://github.com/AfterPacket/AfterPacket/commit/e6bffd6c0fda0e1e530205b4bc49ca9e28ef7d14)) `2 days ago`
 
 ### Coding Time
 
