@@ -232,7 +232,7 @@ every other flat-file CMS treated security as an afterthought.
 
 ### Recent Activity
 
-⬆️ Pushed to [`main`](https://github.com/AfterPacket/drosera-threat-intel/tree/main) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** ([`dbccf9a`](https://github.com/AfterPacket/drosera-threat-intel/commit/dbccf9ada7c1176acb5096090f528f7158c022cd)) `2 days ago`
+⬆️ Pushed to [`main`](https://github.com/AfterPacket/drosera-threat-intel/tree/main) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** ([`dbccf9a`](https://github.com/AfterPacket/drosera-threat-intel/commit/dbccf9ada7c1176acb5096090f528f7158c022cd)) `3 days ago`
 🌿 Created branch [`ci/static-validation-and-doc-consistency-20261029`](https://github.com/AfterPacket/drosera-threat-intel/tree/ci%2Fstatic-validation-and-doc-consistency-20261029) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `2 days ago`
 ⬆️ Pushed to [`main`](https://github.com/AfterPacket/drosera-threat-intel/tree/main) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** ([`3712906`](https://github.com/AfterPacket/drosera-threat-intel/commit/371290623ef1392f30ce63a92852139a6168b373)) `2 days ago`
 🌿 Created branch [`analysis/deep-static-batch1-20261029`](https://github.com/AfterPacket/drosera-threat-intel/tree/analysis%2Fdeep-static-batch1-20261029) in **[AfterPacket/drosera-threat-intel](https://github.com/AfterPacket/drosera-threat-intel)** `2 days ago`
